@@ -1,0 +1,9 @@
+
+body {
+	background: url('http://s1.bwallpapers.com/wallpapers/2014/07/04/robot-1920x1080-wallpaper_111432867.jpg'); 
+	/* background-image: front.jpg; */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
