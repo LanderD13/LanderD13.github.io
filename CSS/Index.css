@@ -1,9 +1,18 @@
 
 body {
-	background: url('http://s1.bwallpapers.com/wallpapers/2014/07/04/robot-1920x1080-wallpaper_111432867.jpg'); 
+	background: url('Robot_Index2.jpg'); 
 	background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
+
+@media only screen and (max-width: 500px) {
+  body {
+    background: url(Robot_Mobile.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+}
+
