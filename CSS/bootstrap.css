@@ -61,7 +61,7 @@ footer{
 }
 
 .active, .accordion:hover {
-    background-color: #ccc; 
+    background-color: #333333; 
 }
 
 .panel {
@@ -2342,14 +2342,14 @@ fieldset[disabled] a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: black;
+  border-color: black;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: green;
-  border-color: #0062cc;
+  background-color: #333333;
+  border-color: #333333;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -3663,6 +3663,7 @@ tbody.collapse.show {
 .navbar-brand:focus, .navbar-brand:hover {
   text-decoration: none;
 }
+
 
 .navbar-nav {
   display: -ms-flexbox;
